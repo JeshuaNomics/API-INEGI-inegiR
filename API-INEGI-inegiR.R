@@ -8,6 +8,7 @@ library(inegiR)
 # Responder dudas sobre el paquete
 ?inegiR
 
+# https://www.inegi.org.mx/app/desarrolladores/generatoken/Usuarios/token_Verify
 token_inegi <- "[Token]"
 
 # PIB_trimestral_corriente
